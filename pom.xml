@@ -8,7 +8,7 @@
         <module>plantfactory-service</module>
         <module>plantfactory-dao</module>
         <module>plantfactory-support</module>
-        <module>../plantfactory-web</module>
+        <module>plantfactory-web</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
